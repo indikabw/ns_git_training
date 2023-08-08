@@ -19,6 +19,7 @@ private:
 public:
     Box(double, double, double);
     double getVolume();
+    double getSurfaceArea();
 };
 
 #endif /* Box_hpp */
